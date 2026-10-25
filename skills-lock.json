@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "antigravity-design-expert": {
+      "source": "sickn33/agentic-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/antigravity-design-expert/SKILL.md",
+      "computedHash": "ca2001607fc9c25b2aeaea5b347b800eab0f48641cdaa25318b1427088c9a186"
+    },
+    "landing-page-generator": {
+      "source": "borghei/Claude-Skills",
+      "sourceType": "github",
+      "skillPath": "marketing/landing-page-generator/SKILL.md",
+      "computedHash": "961ec84d649a3d3d3b334791b965ebad74699cbc7b237ba5a78d27ade1b7a950"
+    },
+    "tdd": {
+      "source": "Shelpuk-AI-Technology-Consulting/agent-skill-tdd",
+      "sourceType": "github",
+      "skillPath": "skills/tdd/SKILL.md",
+      "computedHash": "6585e0d56a8c1fcb214cf3c1d8279b3d83adbf21ed36d252026938e224751ae1"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "7ac62d931e52dbc7c309ed8ee067101969db2454709339b02daa583e80e98d5f"
+    }
+  }
+}
